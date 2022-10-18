@@ -19,7 +19,7 @@ The final report is available at this [link](https://public.tableau.com/app/prof
 
 ## Data
 The original data sets are the following:  
--	[House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
+-	[House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction).
 
 ## Tools
 Programming language: **Python**  
