@@ -1,0 +1,16 @@
+Feature,Cluster 0,Cluster 1
+price,0,0.884954648
+bedrooms,0,0.263726139
+bathrooms,0,0.572003938
+sqft_living,0,0.83876921
+sqft_lot,0,1.439737299
+floors,0,0.430493374
+waterfront,0,4.902118335
+view,0,2.566131198
+condition,0,-0.081138186
+grade,0,0.232758397
+sqft_above,0,0.976037395
+sqft_basement,0,0.175457862
+yr_built,0,0.014570758
+sqft_living15,0,0.588858747
+sqft_lot15,0,1.142384303
